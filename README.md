@@ -1,7 +1,7 @@
 Noncontracting-Grammar
 ======================
 
-a Noncontracting Grammar written in Python 2.7
+a [Noncontracting Grammar](http://en.wikipedia.org/wiki/Noncontracting_grammar) written in Python 2.7
 
 g1 ... g5 are test files 
 
