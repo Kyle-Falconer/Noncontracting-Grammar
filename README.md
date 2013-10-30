@@ -14,5 +14,5 @@ h4.py reads a noncontracting grammar G from standard input,
   but noncontracting grammars are more common in modern usage.
 
 Usage: at shell prompt
-    $ echo -n "S -> abc\n\tS -> aSBc\n\tBc -> cB\n\tcB -> Bc\n\tbB -> bb\n\t*\n\taabbcc\n\tababbcc" > test.txt
-    $ python h4.py < test.txt
+    `$ echo -n "S -> abc\n\tS -> aSBc\n\tBc -> cB\n\tcB -> Bc\n\tbB -> bb\n\t*\n\taabbcc\n\tababbcc" > test.txt`
+    `$ python h4.py < test.txt`
