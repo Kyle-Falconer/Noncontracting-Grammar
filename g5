@@ -1,0 +1,21 @@
+S -> a
+S -> aWBY
+BY -> aa
+BY -> PXWY
+Wa -> aa
+Xa -> aa
+WA -> AXW
+XA -> PXW
+WP -> AX
+XP -> PX
+aA -> aWWXB
+BX -> WQ
+QX -> XQ
+QW -> XB
+*
+a
+aa
+aaa
+aaaa
+aaaaaaa
+aaaaaaaaa

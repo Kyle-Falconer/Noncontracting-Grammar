@@ -1,0 +1,19 @@
+S -> abc
+S -> aSBc
+cB -> Bc
+bB -> bb
+*
+abc
+c
+aaaaaaaabbbbbbbbcccccccc
+aaaaaaaaabbbbbbbbbccccccccc
+aaaaaaaaaabbbbbbbbbbcccccccccc
+aaaaaaaaaaabbbbbbbbbbbccccccccccc
+aaaaaaababbbbbbcbccccccc
+aaaabbbbcccc
+aaabbbccc
+aabbcc
+aaaaabbbbbccccc
+aaaaaabbbbbbcccccc
+aaaaaabbbbbbccccc
+abbacbcc

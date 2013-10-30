@@ -1,0 +1,9 @@
+S -> abc
+S -> aSBc
+Bc -> cB
+cB -> Bc
+bB -> bb
+*
+aaaabbbbcccc
+abbacbcc
+aabbcc
